@@ -1,3 +1,14 @@
 section{
+  width:720px;
   text-align: center;
+  color:#333;
+}
+section h2{
+  color:#ff2323;
+}
+section > p {
+  color:#999;
+}
+section article {
+  
 }
