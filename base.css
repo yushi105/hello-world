@@ -1,0 +1,13 @@
+section{
+  width:720px;
+  color:#333;
+}
+section h2{
+  color:#ff2323;
+}
+section > p {
+  color:#999;
+}
+section article {
+  
+}
